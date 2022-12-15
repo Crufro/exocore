@@ -295,11 +295,11 @@ template { display: none; }
 :root { /* NODE COLOUR */ --graph-node-stroke-color: transparent; --graph-node-missing-color: black; --graph-node-unvisited-color: brown; --graph-node-visited-color: brown; /* NODE GLOW */ --graph-node-current-glow: transparent; --graph-node-tagged-glow: transparent; --graph-node-visited-glow: transparent; /* LINKS */ --graph-link-color:grey; --graph-particles-color: grey; /* LABELS */ --graph-text-color: grey; }
 
 /* === Body === */
-article { background-color: #f0e0d6; box-shadow: 1px 1px 0px #d9bfb7; margin-bottom: 0.5em; }
+article { background-color: #5185F5; box-shadow: 1px 1px 0px #d9bfb7; margin-bottom: 0.5em; }
 
 body { background-color: black; background-image: url("/assets/imgs/bg-yotsuba.gif"); background-repeat: repeat; box-sizing: content-box; font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol; margin: 0 auto; line-height: 1.1em; padding: 2rem; overflow-x: hidden; color: #800000; font-size: 1rem; }
 
-body { font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol; padding: 4vh 6vw; overflow-x: hidden; color: #800000; font-size: 1rem; background-color: #f0e0d6; }
+body { font-family: Helvetica, Arial, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol; padding: 4vh 6vw; overflow-x: hidden; color: #800000; font-size: 1rem; background-color: #5185F5; }
 
 img { max-width: 100%; display: block; margin: 0 auto; max-height: 75vh; border-radius: 0px; border: none; width: 80%; }
 
@@ -313,11 +313,11 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.4; padding-bottom: 0; font-size: 1.15em;
 
 .title-text { color: #cc1105; font-weight: bold; font-size: 1.2em; line-height: 1em; margin: auto; text-align: center; padding: 0.5em; padding-bottom: 0.5em; text-decoration: none !important; }
 
-h1 { color: #117743; font-weight: bold; text-decoration: underline; font-size: 1.3em; }
+h1 { color: #9FD143; font-weight: bold; text-decoration: underline; font-size: 1.3em; }
 
-h2 { color: #117743; font-weight: bold; }
+h2 { color: #B4C743; font-weight: bold; }
 
-h3 { color: #117743; font-weight: normal; text-decoration: underline; }
+h3 { color: #CDC343; font-weight: normal; text-decoration: underline; }
 
 h4 { text-transform: none; font-weight: strong; font-size: 1em; }
 
@@ -330,11 +330,11 @@ PRE { margin-left: 1em; }
 *:focus { background: white !important; color: black !important; }
 
 /* -- Links -- */
-a { color: #34345c; text-decoration: underline; }
+a { color: #E8943C; text-decoration: underline; }
 
 a:hover { color: red !important; text-decoration: underline; cursor: pointer; }
 
-a.internal-link { color: #34345c; text-decoration: underline; cursor: pointer; }
+a.internal-link { color: #E8A85F; text-decoration: underline; cursor: pointer; }
 
 .notes-entry-container a.internal-link::before { content: "»"; }
 
@@ -364,7 +364,7 @@ nav a { color: blue !important; }
 h1:hover > a.anchor, h2:hover > a.anchor, h3:hover > a.anchor, h4:hover > a.anchor, h5:hover > a.anchor, h6:hover > a.anchor { visibility: visible; }
 
 /* === Page Formatting === */
-.title { border: none; padding: 0em; background-color: #f0e0d6; margin-bottom: 0em; text-align: center; }
+.title { border: none; padding: 0em; background-color: #5185F5; margin-bottom: 0em; text-align: center; }
 
 nav { background-color: #fffbf0; border: none; padding: 1em; box-shadow: 1px 1px 0px #d9bfb7; color: blue; font-weight: normal; padding: 1em; margin: 1em 0 1em; }
 
@@ -383,7 +383,7 @@ nav { background-color: #fffbf0; border: none; padding: 1em; box-shadow: 1px 1px
 
 .backlinks-none { font-size: 0.9em; text-align: center; }
 
-.note { border: none; padding: 1em; padding-top: 0em; background-color: #f0e0d6; }
+.note { border: none; padding: 1em; padding-top: 0em; background-color: #5185F5; }
 
 .content { margin-left: 2em; margin-right: 1em; line-height: 1.1em; padding-top: 0.5em; }
 
@@ -400,7 +400,7 @@ nav { background-color: #fffbf0; border: none; padding: 1em; box-shadow: 1px 1px
 
 /* STRUCTURE
 ================================================== */
-.sidebar-card, .index-card, .archive-card { margin-bottom: 1em; float: left; clear: both; background-color: #f0e0d6; padding: 0.5em 1em; box-sizing: border-box; width: 100%; }
+.sidebar-card, .index-card, .archive-card { margin-bottom: 1em; float: left; clear: both; background-color: #5185F5; padding: 0.5em 1em; box-sizing: border-box; width: 100%; }
 
 .container-lg { max-width: 85em; margin: auto; }
 
@@ -412,7 +412,7 @@ nav { background-color: #fffbf0; border: none; padding: 1em; box-shadow: 1px 1px
 
 main { margin: auto; }
 
-article { background-color: #f0e0d6; box-shadow: 1px 1px 0px #d9bfb7; }
+article { background-color: #5185F5; box-shadow: 1px 1px 0px #d9bfb7; }
 
 .related { text-align: left; }
 
@@ -444,7 +444,7 @@ article { background-color: #f0e0d6; box-shadow: 1px 1px 0px #d9bfb7; }
 
 /* HOME 
 =============*/
-.home-card { width: 400px; margin: auto; padding: 25px; background-color: #f0e0d6; border: medium outset; }
+.home-card { width: 400px; margin: auto; padding: 25px; background-color: #5185F5; border: medium outset; }
 
 .container-sml { width: 400px; margin: auto; }
 
@@ -539,7 +539,7 @@ img + em { display: block; color: #cc1105; text-align: center; width: 50%; margi
 
 /* ARCHIVE
 ================================================== */
-.archive-grid { display: grid; grid-template-columns: 33.33% 33.33% 33.33%; grid-gap: 0.5em; background-color: #f0e0d6; padding: 1em; margin: auto; }
+.archive-grid { display: grid; grid-template-columns: 33.33% 33.33% 33.33%; grid-gap: 0.5em; background-color: #5185F5; padding: 1em; margin: auto; }
 
 .archive-card { background-color: #fffbf0; width: 100%; margin: auto; }
 
@@ -571,7 +571,7 @@ img + em { display: block; color: #cc1105; text-align: center; width: 50%; margi
 
 /* PREVIOUS / NEXT BUTTONS
 ================================================== */
-.prev-next { margin-bottom: 0.5em; background-color: #f0e0d6; width: 100%; padding: 1em; height: 3.5em; border-bottom: medium outset; }
+.prev-next { margin-bottom: 0.5em; background-color: #5185F5; width: 100%; padding: 1em; height: 3.5em; border-bottom: medium outset; }
 
 .prev-next a { font-weight: bold; text-decoration: none; }
 
@@ -639,7 +639,7 @@ body { overflow-wrap: break-word; }
 
 @media (max-width: 1350px) { .sidenote { display: none; } .midcolumn { width: 75%; } .leftcolumn { width: 20%; } .sidebar-link-box { overflow-x: hidden; } .sidebar-link-box ul { font-size: smaller; } }
 
-@media (max-width: 800px) { .midcolumn, .leftcolumn { width: 100%; margin: auto; } .sidebar-link-box { line-height: 0.8em; } .containter-lg { width: 100%; } .sidebar-card { padding: 0.5em; } .related, .tags { display: none; } .toc-container { margin: auto; max-width: 80%; } .related h2 { text-align: left; } .post-content { padding: 0em; margin: 0em; } .prev-next { padding: 2em; display: none; } .prev-next a { padding: 1em; } .backlinks-container { width: 80%; } .archive-grid { grid-template-columns: 100%; grid-gap: 0.5em; background-color: #f0e0d6; padding: 1em; margin: auto; } .left-aside, .right-aside, .right, .left { width: 80%; float: none; } code { overflow-x: scroll; } }
+@media (max-width: 800px) { .midcolumn, .leftcolumn { width: 100%; margin: auto; } .sidebar-link-box { line-height: 0.8em; } .containter-lg { width: 100%; } .sidebar-card { padding: 0.5em; } .related, .tags { display: none; } .toc-container { margin: auto; max-width: 80%; } .related h2 { text-align: left; } .post-content { padding: 0em; margin: 0em; } .prev-next { padding: 2em; display: none; } .prev-next a { padding: 1em; } .backlinks-container { width: 80%; } .archive-grid { grid-template-columns: 100%; grid-gap: 0.5em; background-color: #5185F5; padding: 1em; margin: auto; } .left-aside, .right-aside, .right, .left { width: 80%; float: none; } code { overflow-x: scroll; } }
 
 /*----------------------------- CUSTOM BACKGROUND  Uncomment one of the below lines to override the background color/image of your chosen theme. 'theme' will leave the default theme background. */
 /* <-- leave default theme BG color */
