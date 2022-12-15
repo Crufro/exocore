@@ -4,10 +4,12 @@
 
 /* --- Body Colors --- */
 
-$background: #489AB8;
+$background: #B6B4C2;
+$sidebarbackground: ##f4f4f4;
 $color-border: none;
 $color-inner-divs: #6CA4F0;
 $color-items: #C7E6F5;
+
 
 
 /* --- Text Colors --- */
@@ -364,7 +366,7 @@ nav {
     margin-bottom: 1em;
     float: left;
     clear: both;
-    background-color: $background;
+    background-color: $sidebarbackground;
     padding: 0.5em 1em;
     box-sizing: border-box;
     width: 100%;
