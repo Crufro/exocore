@@ -4,7 +4,7 @@ date: 2022-12-17
 tags:
 published: true
 ---
-# cat posting to exocore on macbook pro 2009 
+# cat posts to exocore on macbook pro 2009 
 
 4efg8ug\∆m mmmmu
 '''''98.u\,,,,,,,,,,,,,,,,,,,,,,,,\\\\\\\\\\\\9
