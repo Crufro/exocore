@@ -2,9 +2,9 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Diving
-description: Cru's blog 
-url: https://diving.netlify.app
+title: lossless garden
+description: cru's garden
+url: https://lossless.garden/
 repository: crufro/exocore
 
 ##############################################
