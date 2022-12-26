@@ -15,10 +15,10 @@ So I almost feel stupid for reacting the way I did. Not that I think my feelings
 ![](/images/ai01.jpg)
 *"it's all just compression mate"*
 
-I advocate for leaning into "AI"
+I advocate for leaning into "AI".
 We're entering the most introspective period in our collective history.
 It will be a time to reorganize, and reassemble to best collaborate with "AI". 
-It will enable for more complex systems, and more opportunities for self-organization. 
+Similarly, it will enable for more complex systems, and more opportunities for self-organization. 
 
-That is a beautiful thing that I"m excited to see unfold.  
+That is a beautiful thing that I'm excited to see unfold.  
 
