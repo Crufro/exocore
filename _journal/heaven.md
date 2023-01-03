@@ -24,7 +24,7 @@ conjuring visuals instantly
 
 you can pull from the akashic records just by thinking
 
-and we'll be posting together in heaven like we do on the internet 
+and we'll be posting together like we do on the internet 
 
 seamless communication. cosmology as a medium
 
